@@ -5,7 +5,7 @@ This repository contains exploratory data analysis of historical climate data fo
 
 ## Setup Instructions
 1. **Clone the repo:**
-   `git clone https://github.com/your-username/climate-challenge-week0.git`
+   `git clone https://github.com/arsema16/climate-challenge-week0.git`
 2. **Create a virtual environment:**
    `python -m venv venv`
 3. **Activate the environment:**
