@@ -27,19 +27,10 @@ The analysis has been deployed as an interactive dashboard for policy makers.
 │   └── clean_all_countries.py          # Data pipeline and preprocessing
 ├── requirements.txt     # Production-ready dependencies
 └── README.md            # Project documentation
-## 🛠️ Setup & Installation
+### **Set up Virtual Environment:**
 
-Follow these steps to set up the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/arsema16/climate-challenge-week0.git](https://github.com/arsema16/climate-challenge-week0.git)
-   cd climate-challenge-week0
-   python -m venv venv
-
-Set up Virtual Environment:
-
-Bash
+```bash
+# Create the environment
 python -m venv venv
 
 # Activate on Windows:
@@ -47,19 +38,12 @@ python -m venv venv
 
 # Activate on Linux/Mac:
 source venv/bin/activate
-Install Dependencies:
 
-Bash
-pip install -r requirements.txt
-🧪 Technologies Used
-Python 3.10+
+## 🧪 Technologies Used
 
-Pandas & NumPy: Data Manipulation
-
-Seaborn & Matplotlib: Exploratory Visualization
-
-SciPy: Statistical Testing (ANOVA)
-
-Streamlit: Web Deployment
-
-Plotly: Interactive Charting
+* **Python 3.10+**
+* **Pandas & NumPy:** Data Manipulation
+* **Seaborn & Matplotlib:** Exploratory Visualization
+* **SciPy:** Statistical Testing (ANOVA)
+* **Streamlit:** Web Deployment
+* **Plotly:** Interactive Charting
