@@ -28,15 +28,15 @@ The analysis has been deployed as an interactive dashboard for policy makers.
 ├── requirements.txt     # Production-ready dependencies
 └── README.md            # Project documentation
 ```
-## **Set up Virtual Environment:**
+## Set up Virtual Environment:
 
-###Create the environment
+**Create the environment**
 python -m venv venv
 
-###Activate on Windows:
+**Activate on Windows:**
 .\venv\Scripts\activate
 
-###Activate on Linux/Mac:
+**Activate on Linux/Mac:**
 source venv/bin/activate
 
 ## 🧪 Technologies Used
