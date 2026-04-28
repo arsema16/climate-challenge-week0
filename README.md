@@ -27,9 +27,9 @@ The analysis has been deployed as an interactive dashboard for policy makers.
 │   └── clean_all_countries.py          # Data pipeline and preprocessing
 ├── requirements.txt     # Production-ready dependencies
 └── README.md            # Project documentation
-### **Set up Virtual Environment:**
+```
+## **Set up Virtual Environment:**
 
-```bash
 # Create the environment
 python -m venv venv
 
